@@ -1,0 +1,106 @@
+com/saandrew/eldocuments/BR.java
+ com.saandrew.eldocuments.BR
+com/saandrew/eldocuments/databinding/PassportFragmentBindingImpl.java
+ com.saandrew.eldocuments.databinding.PassportFragmentBindingImpl
+ com.saandrew.eldocuments.databinding.PassportFragmentBindingImpl$1
+ com.saandrew.eldocuments.databinding.PassportFragmentBindingImpl$2
+ com.saandrew.eldocuments.databinding.PassportFragmentBindingImpl$3
+ com.saandrew.eldocuments.databinding.PassportFragmentBindingImpl$4
+ com.saandrew.eldocuments.databinding.PassportFragmentBindingImpl$5
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/saandrew/eldocuments/databinding/DocTypeChildrenBindingImpl.java
+ com.saandrew.eldocuments.databinding.DocTypeChildrenBindingImpl
+com/saandrew/eldocuments/databinding/InsuranceNumberFragmentBindingImpl.java
+ com.saandrew.eldocuments.databinding.InsuranceNumberFragmentBindingImpl
+ com.saandrew.eldocuments.databinding.InsuranceNumberFragmentBindingImpl$1
+com/saandrew/eldocuments/databinding/DriverLicenseFragmentBindingImpl.java
+ com.saandrew.eldocuments.databinding.DriverLicenseFragmentBindingImpl
+ com.saandrew.eldocuments.databinding.DriverLicenseFragmentBindingImpl$1
+ com.saandrew.eldocuments.databinding.DriverLicenseFragmentBindingImpl$2
+ com.saandrew.eldocuments.databinding.DriverLicenseFragmentBindingImpl$3
+com/saandrew/eldocuments/databinding/HealthInsuranceFragmentBindingImpl.java
+ com.saandrew.eldocuments.databinding.HealthInsuranceFragmentBindingImpl
+ com.saandrew.eldocuments.databinding.HealthInsuranceFragmentBindingImpl$1
+ com.saandrew.eldocuments.databinding.HealthInsuranceFragmentBindingImpl$2
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/saandrew/eldocuments/generated/callback/OnClickListener.java
+ com.saandrew.eldocuments.generated.callback.OnClickListener
+ com.saandrew.eldocuments.generated.callback.OnClickListener$Listener
+com/saandrew/eldocuments/databinding/ActivityEnterBindingImpl.java
+ com.saandrew.eldocuments.databinding.ActivityEnterBindingImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/saandrew/eldocuments/DataBindingTriggerClass.java
+ com.saandrew.eldocuments.DataBindingTriggerClass
+com/saandrew/eldocuments/BuildConfig.java
+ com.saandrew.eldocuments.BuildConfig
+com/saandrew/eldocuments/databinding/RegisterFragmentBindingImpl.java
+ com.saandrew.eldocuments.databinding.RegisterFragmentBindingImpl
+ com.saandrew.eldocuments.databinding.RegisterFragmentBindingImpl$1
+ com.saandrew.eldocuments.databinding.RegisterFragmentBindingImpl$2
+com/saandrew/eldocuments/databinding/ActivityEnterBinding.java
+ com.saandrew.eldocuments.databinding.ActivityEnterBinding
+com/saandrew/eldocuments/databinding/QrFragmentBindingImpl.java
+ com.saandrew.eldocuments.databinding.QrFragmentBindingImpl
+com/saandrew/eldocuments/databinding/QrResultFragmentBinding.java
+ com.saandrew.eldocuments.databinding.QrResultFragmentBinding
+com/saandrew/eldocuments/databinding/RegisterFragmentBinding.java
+ com.saandrew.eldocuments.databinding.RegisterFragmentBinding
+com/saandrew/eldocuments/databinding/HealthInsuranceFragmentBinding.java
+ com.saandrew.eldocuments.databinding.HealthInsuranceFragmentBinding
+com/saandrew/eldocuments/databinding/UserProfileFragmentBindingImpl.java
+ com.saandrew.eldocuments.databinding.UserProfileFragmentBindingImpl
+com/saandrew/eldocuments/databinding/DriverLicenseItemBindingImpl.java
+ com.saandrew.eldocuments.databinding.DriverLicenseItemBindingImpl
+com/saandrew/eldocuments/databinding/HealthInsuranceItemBinding.java
+ com.saandrew.eldocuments.databinding.HealthInsuranceItemBinding
+com/saandrew/eldocuments/databinding/InsuranceNumberItemBinding.java
+ com.saandrew.eldocuments.databinding.InsuranceNumberItemBinding
+com/saandrew/eldocuments/databinding/QrScannerFragmentBindingImpl.java
+ com.saandrew.eldocuments.databinding.QrScannerFragmentBindingImpl
+com/saandrew/eldocuments/databinding/UserProfileFragmentBinding.java
+ com.saandrew.eldocuments.databinding.UserProfileFragmentBinding
+com/saandrew/eldocuments/databinding/QrResultFragmentBindingImpl.java
+ com.saandrew.eldocuments.databinding.QrResultFragmentBindingImpl
+com/saandrew/eldocuments/databinding/PassportItemBindingImpl.java
+ com.saandrew.eldocuments.databinding.PassportItemBindingImpl
+com/saandrew/eldocuments/databinding/DocumentsFragmentBindingImpl.java
+ com.saandrew.eldocuments.databinding.DocumentsFragmentBindingImpl
+com/saandrew/eldocuments/databinding/PassportItemBinding.java
+ com.saandrew.eldocuments.databinding.PassportItemBinding
+com/saandrew/eldocuments/databinding/ActivityMainBindingImpl.java
+ com.saandrew.eldocuments.databinding.ActivityMainBindingImpl
+com/saandrew/eldocuments/databinding/DocTypeChildrenBinding.java
+ com.saandrew.eldocuments.databinding.DocTypeChildrenBinding
+com/saandrew/eldocuments/databinding/QrFragmentBinding.java
+ com.saandrew.eldocuments.databinding.QrFragmentBinding
+com/saandrew/eldocuments/databinding/ActivityMainBinding.java
+ com.saandrew.eldocuments.databinding.ActivityMainBinding
+com/saandrew/eldocuments/databinding/EnterFragmentBinding.java
+ com.saandrew.eldocuments.databinding.EnterFragmentBinding
+com/saandrew/eldocuments/databinding/InsuranceNumberFragmentBinding.java
+ com.saandrew.eldocuments.databinding.InsuranceNumberFragmentBinding
+com/saandrew/eldocuments/databinding/EnterFragmentBindingImpl.java
+ com.saandrew.eldocuments.databinding.EnterFragmentBindingImpl
+ com.saandrew.eldocuments.databinding.EnterFragmentBindingImpl$1
+ com.saandrew.eldocuments.databinding.EnterFragmentBindingImpl$2
+com/saandrew/eldocuments/databinding/DriverLicenseFragmentBinding.java
+ com.saandrew.eldocuments.databinding.DriverLicenseFragmentBinding
+com/saandrew/eldocuments/databinding/HealthInsuranceItemBindingImpl.java
+ com.saandrew.eldocuments.databinding.HealthInsuranceItemBindingImpl
+com/saandrew/eldocuments/databinding/DocumentsFragmentBinding.java
+ com.saandrew.eldocuments.databinding.DocumentsFragmentBinding
+com/saandrew/eldocuments/databinding/InsuranceNumberItemBindingImpl.java
+ com.saandrew.eldocuments.databinding.InsuranceNumberItemBindingImpl
+com/saandrew/eldocuments/databinding/DriverLicenseItemBinding.java
+ com.saandrew.eldocuments.databinding.DriverLicenseItemBinding
+com/saandrew/eldocuments/databinding/PassportFragmentBinding.java
+ com.saandrew.eldocuments.databinding.PassportFragmentBinding
+com/saandrew/eldocuments/databinding/QrScannerFragmentBinding.java
+ com.saandrew.eldocuments.databinding.QrScannerFragmentBinding
+com/saandrew/eldocuments/DataBinderMapperImpl.java
+ com.saandrew.eldocuments.DataBinderMapperImpl
+ com.saandrew.eldocuments.DataBinderMapperImpl$InnerBrLookup
+ com.saandrew.eldocuments.DataBinderMapperImpl$InnerLayoutIdLookup

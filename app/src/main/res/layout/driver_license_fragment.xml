@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui_doc.driver_license.DriverLicenseFragment">
+
+
+    <data>
+
+        <variable
+            name="driverLicenseViewModel"
+            type="com.saandrew.eldocuments.ui_doc.driver_license.DriverLicenseViewModel" />
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
+
+
+        <EditText
+            android:id="@+id/serial_and_number_drive_license"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:enabled="@{driverLicenseViewModel.available}"
+            android:hint="@string/serial_and_number_driver_license"
+            android:maxLength="12"
+            android:text="@={driverLicenseViewModel.serialAndNumber}"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/date_of_issue_drive_license"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:enabled="@{driverLicenseViewModel.available}"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:hint="@string/date_of_issue_driver_license"
+            android:text="@={driverLicenseViewModel.dateOfIssue}"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/serial_and_number_drive_license" />
+
+        <EditText
+            android:id="@+id/valid_until_drive_license"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:enabled="@{driverLicenseViewModel.available}"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:hint="@string/valid_until"
+            android:text="@={driverLicenseViewModel.validUntil}"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/date_of_issue_drive_license" />
+
+
+        <Button
+            android:id="@+id/send_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:onClick="@{() -> driverLicenseViewModel.onBtnClick()}"
+            app:btnStatus="@{driverLicenseViewModel.mode}"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

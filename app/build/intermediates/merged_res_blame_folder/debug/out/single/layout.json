@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\health_insurance_fragment.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\health_insurance_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\insurance_number_item.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\insurance_number_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\register_fragment.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\register_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\driver_license_item.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\driver_license_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\passport_item.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\passport_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\doc_type_children.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\doc_type_children.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\driver_license_fragment.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\driver_license_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\health_insurance_item.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\health_insurance_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\qr_result_fragment.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\qr_result_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\insurance_number_fragment.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\insurance_number_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\documents_fragment.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\documents_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\passport_fragment.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\passport_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\qr_scanner_fragment.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\qr_scanner_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\qr_fragment.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\qr_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\user_profile_fragment.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\user_profile_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_enter.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\activity_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\enter_fragment.xml",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\enter_fragment.xml"
+    }
+]

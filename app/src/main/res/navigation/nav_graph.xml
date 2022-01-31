@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_qr">
+    <fragment
+        android:id="@+id/navigation_qr"
+        android:name="com.saandrew.eldocuments.ui.qr.QrFragment"
+        android:label="@string/main_frame"
+        tools:layout="@layout/qr_fragment">
+        <action
+            android:id="@+id/action_navigation_qr_to_qrScannerFragment"
+            app:destination="@id/navigation_qr_scanner" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_qr_scanner"
+        android:name="com.saandrew.eldocuments.ui.qr.QrScannerFragment"
+        android:label="@string/scanner"
+        tools:layout="@layout/qr_scanner_fragment">
+        <action
+            android:id="@+id/action_navigation_qr_scanner_to_qrResultFragment"
+            app:destination="@id/navigation_qr_result" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_qr_result"
+        android:name="com.saandrew.eldocuments.ui.scan_result.QrResultFragment"
+        android:label="@string/results"
+        tools:layout="@layout/qr_result_fragment">
+        <argument
+            android:name="token"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_documents"
+        android:name="com.saandrew.eldocuments.ui.catalog_doc.DocumentsFragment"
+        android:label="@string/documents"
+        tools:layout="@layout/documents_fragment">
+        <action
+            android:id="@+id/action_navigation_documents_to_passportFragment"
+            app:destination="@id/passportFragment" />
+        <action
+            android:id="@+id/action_navigation_documents_to_driverLicenseFragment"
+            app:destination="@id/driverLicenseFragment" />
+        <action
+            android:id="@+id/action_navigation_documents_to_healthInsuranceFragment"
+            app:destination="@id/healthInsuranceFragment" />
+        <action
+            android:id="@+id/action_navigation_documents_to_insuranceNumberFragment"
+            app:destination="@id/insuranceNumberFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/passportFragment"
+        android:name="com.saandrew.eldocuments.ui_doc.passport.PassportFragment"
+        android:label="@string/passport"
+        tools:layout="@layout/passport_fragment" />
+    <fragment
+        android:id="@+id/driverLicenseFragment"
+        android:name="com.saandrew.eldocuments.ui_doc.driver_license.DriverLicenseFragment"
+        android:label="@string/driver_license"
+        tools:layout="@layout/driver_license_fragment" />
+    <fragment
+        android:id="@+id/healthInsuranceFragment"
+        android:name="com.saandrew.eldocuments.ui_doc.health_insurance.HealthInsuranceFragment"
+        android:label="@string/health_insurance"
+        tools:layout="@layout/health_insurance_fragment" />
+    <fragment
+        android:id="@+id/insuranceNumberFragment"
+        android:name="com.saandrew.eldocuments.ui_doc.insurance_number.InsuranceNumberFragment"
+        android:label="@string/insurance_number"
+        tools:layout="@layout/insurance_number_fragment" />
+    <fragment
+        android:id="@+id/user_profile_navigation"
+        android:name="com.saandrew.eldocuments.ui.user_profile.UserProfileFragment"
+        android:label="@string/user_profile"
+        tools:layout="@layout/user_profile_fragment" />
+</navigation>

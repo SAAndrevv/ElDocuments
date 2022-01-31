@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                  
+                                                                 
+
+
+    
+
+                 
+                                         
+                                                                                           
+
+           
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible" android:tag="layout/driver_license_fragment_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" tools:context=".ui_doc.driver_license.DriverLicenseFragment">
+
+
+        <EditText
+            android:id="@+id/serial_and_number_drive_license"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="binding_1"                              
+            android:hint="@string/serial_and_number_driver_license"
+            android:maxLength="12"
+                                                                     
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/date_of_issue_drive_license"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:tag="binding_2"                              
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:hint="@string/date_of_issue_driver_license"
+                                                                 
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/serial_and_number_drive_license" />
+
+        <EditText
+            android:id="@+id/valid_until_drive_license"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:tag="binding_3"                              
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:hint="@string/valid_until"
+                                                                
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/date_of_issue_drive_license" />
+
+
+        <Button
+            android:id="@+id/send_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:tag="binding_4"                                       
+                                                          
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+         

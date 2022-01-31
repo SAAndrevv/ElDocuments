@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui_doc.passport.PassportFragment">
+
+
+    <data>
+
+        <variable
+            name="passportViewModel"
+            type="com.saandrew.eldocuments.ui_doc.passport.PassportViewModel" />
+
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
+
+        <EditText
+            android:id="@+id/type_pass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:enabled="false"
+            android:hint="@string/type_document"
+            android:text="@{passportViewModel.type}"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/serial_and_number_pass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:digits="1234567890"
+            android:enabled="@{passportViewModel.available}"
+            android:hint="@string/serial_and_number_passport"
+            android:inputType="number"
+            android:text="@={passportViewModel.serialAndNumber}"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/type_pass" />
+
+        <EditText
+            android:id="@+id/place_of_birth_pass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:enabled="@{passportViewModel.available}"
+            android:hint="@string/place_of_birth"
+            android:text="@={passportViewModel.placeOfBirth}"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/serial_and_number_pass" />
+
+        <EditText
+            android:id="@+id/date_of_receiving_pass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:enabled="@{passportViewModel.available}"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:hint="@string/date_of_receiving_passport"
+            android:text="@={passportViewModel.dateOfReceiving}"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/place_of_birth_pass" />
+
+        <EditText
+            android:id="@+id/issued_by_pass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:enabled="@{passportViewModel.available}"
+            android:hint="@string/issued_by_passport"
+            android:text="@={passportViewModel.issuedBy}"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/date_of_receiving_pass" />
+
+        <EditText
+            android:id="@+id/department_code_pass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:digits="1234567890"
+            android:enabled="@{passportViewModel.available}"
+            android:hint="@string/department_code_passport"
+            android:inputType="number"
+            android:maxLength="7"
+            android:text="@={passportViewModel.departmentCode}"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/issued_by_pass" />
+
+        <Button
+            android:id="@+id/send_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:onClick="@{() -> passportViewModel.onBtnClick()}"
+            app:btnStatus="@{passportViewModel.mode}"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

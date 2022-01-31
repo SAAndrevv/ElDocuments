@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_documents"
+        android:enabled="true"
+        android:icon="@drawable/documents_icon"
+        android:title="@string/documents" />
+
+    <item
+        android:id="@+id/navigation_qr"
+        android:enabled="true"
+        android:icon="@drawable/ic_qr_code"
+        android:title="@string/qr_text" />
+
+    <item
+        android:id="@+id/user_profile_navigation"
+        android:enabled="true"
+        android:icon="@drawable/user_profile_icon"
+        android:title="@string/user_profile" />
+
+
+</menu>

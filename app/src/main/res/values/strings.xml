@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Электронные документы</string>
+    <string name="enter_btn">Войти</string>
+    <string name="register_btn">Регистрация</string>
+    <string name="register_text">Впервые у нас?</string>
+
+    <string name="permission_required">Camera access is required to display the camera preview.</string>
+    <string name="ok">OK</string>
+    <string name="permission_granted">Permission is granted. You can use the camera now.</string>
+
+    <string name="passport_type">Паспорт гражданина РФ</string>
+
+    <string name="passport">Паспорт</string>
+    <string name="qr_text">QR</string>
+    <string name="driver_license">Водительское удостоверение</string>
+    <string name="health_insurance">Полис ОМС</string>
+    <string name="insurance_number">СНИЛС</string>
+
+    <string name="documents_group">Документы</string>
+
+    <string name="valid_until_driver_license">Действительный до: %1$s</string>
+    <string name="date_of_issue_driver_license">Дата выдачи</string>
+    <string name="serial_and_number_driver_license">Серия и номер</string>
+    <string name="valid_until">Действительны до</string>
+
+    <string name="number_insurance_number">СНИЛС: %1$s</string>
+
+    <string name="number_health_insurance">Номер: %1$s</string>
+    <string name="valid_until_health_insurance">Дата завершения: %1$s</string>
+    <string name="number_text">Номер</string>
+    <string name="date_of_completion">Дата завершения (если есть)</string>
+
+    <string name="main_frame">Главная</string>
+    <string name="documents">Документы</string>
+    <string name="user_profile">Профиль</string>
+    <string name="results">Результаты</string>
+    <string name="scanner">Сканер QR</string>
+    <string name="enter">Вход</string>
+    <string name="registration">Регистрация</string>
+    <string name="registration_question">Впервые у нас?</string>
+    <string name="enter_btn_text">Войти</string>
+    <string name="register_btn_text">Регистрация</string>
+
+    <string name="serial_and_number">Серия и номер: %1$s</string>
+    <string name="place_of_birth_pass_item">Место рождения: %1$s</string>
+    <string name="date_of_receiving">Дата выдачи: %1$s</string>
+    <string name="issued_by_pass_item">Кем выдан: %1$s</string>
+    <string name="department_code_pass_item">Код подразделения: %1$s</string>
+    <string name="type_pass_item">Тип документа: %1$s</string>
+
+    <string name="type_document">Тип документа</string>
+    <string name="serial_and_number_passport">Серия и номер паспорта</string>
+    <string name="place_of_birth">Место рождения</string>
+    <string name="date_of_receiving_passport">Дата выдачи</string>
+    <string name="issued_by_passport">Кем выдан</string>
+    <string name="department_code_passport">Код подразделения</string>
+
+    <string name="wrong_auth">Неверные логин или пароль</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Пароль</string>
+    <string name="empty_field_error">Введите логин и пароль</string>
+    <string name="scan_btn_text">Cканировать</string>
+
+    <string name="name_register">Имя</string>
+    <string name="surname_register">Фамилия</string>
+    <string name="register_registration">Зарегистрироваться</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="patronymic">Отчество</string>
+
+
+</resources>

@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_my_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\my_ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\navigation_enter_graph.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\navigation\\enter_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_doc.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\ic_doc.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_el_doc_launcher_background.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\el_doc_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_empty_human.jpg.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\empty_human.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_el_doc_launcher_round.png.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-mdpi\\el_doc_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_documents_fragment.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\documents_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_user_profile_fragment.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\user_profile_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_insurance_number_fragment.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\insurance_number_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_el_doc_launcher_round.png.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-xhdpi\\el_doc_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_health_insurance_item.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\health_insurance_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_done.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\ic_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_insurance_number_item.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\insurance_number_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_telephone_icon.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\telephone_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_el_doc_launcher_round.png.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-xxhdpi\\el_doc_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_denied.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\ic_denied.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_el_doc_launcher.png.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-hdpi\\el_doc_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_passport_fragment.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\passport_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_el_doc_launcher_foreground.png.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-xxhdpi\\el_doc_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_el_doc_launcher.png.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-mdpi\\el_doc_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_passport_item.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\passport_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_el_doc_launcher_round.png.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-hdpi\\el_doc_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_el_doc_launcher_round.png.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-xxxhdpi\\el_doc_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_loading_img.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\loading_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_notofication_icon.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\notofication_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_error.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\ic_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_qr_result_fragment.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\qr_result_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_enter.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\activity_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_qr_code.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\ic_qr_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_qr_fragment.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\qr_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_health_insurance_fragment.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\health_insurance_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_loading_animation.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\loading_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_doc_type_parent.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\doc_type_parent.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_user_profile_icon.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\user_profile_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_el_doc_launcher_round.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-anydpi-v26\\el_doc_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_qr_scanner_fragment.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\qr_scanner_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_el_doc_launcher.png.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-xxxhdpi\\el_doc_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_email_icon.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\email_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_el_doc_launcher.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-anydpi-v26\\el_doc_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_el_doc_launcher.png.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-xhdpi\\el_doc_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_el_doc_launcher_foreground.png.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-xxxhdpi\\el_doc_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_el_doc_launcher_foreground.png.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-mdpi\\el_doc_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_register_fragment.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\register_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_documents_icon.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\documents_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_el_doc_launcher_foreground.png.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-xhdpi\\el_doc_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_connection_error.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\ic_connection_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_reload.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\reload.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_shape_item.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\button_shape_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_shape_group.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\button_shape_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_doc_list_children.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\doc_list_children.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_driver_license_fragment.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\driver_license_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_doc_list_item.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\doc_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_el_doc_launcher.png.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-xxhdpi\\el_doc_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_permission_icon.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\permission_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_doc_type_children.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\doc_type_children.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_driver_license_item.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\driver_license_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_el_doc_launcher_foreground.png.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\mipmap-hdpi\\el_doc_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\layout_enter_fragment.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\layout\\enter_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\build\\intermediates\\merged_res\\debug\\drawable_scan_qr.xml.flat",
+        "source": "C:\\Users\\SAAnd\\AndroidStudioProjects\\ElDocuments\\app\\src\\main\\res\\drawable\\scan_qr.xml"
+    }
+]
