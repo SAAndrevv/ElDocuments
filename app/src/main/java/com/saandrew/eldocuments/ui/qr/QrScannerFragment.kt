@@ -86,7 +86,7 @@ class QrScannerFragment : Fragment() {
         val callback = object : BarcodeCallback {
             override fun barcodeResult(result: BarcodeResult) {
                 if (result.text != null) {
-                    Toast.makeText(activity, result.toString(), Toast.LENGTH_SHORT).show()
+                    //Toast.makeText(activity, result.toString(), Toast.LENGTH_SHORT).show()
                     try {
                         val action =
                             QrScannerFragmentDirections.actionNavigationQrScannerToQrResultFragment(

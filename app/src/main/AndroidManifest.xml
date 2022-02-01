@@ -18,6 +18,7 @@
         android:theme="@style/Theme.ElDocuments"
         android:usesCleartextTraffic="true">
         <activity
+            android:screenOrientation="portrait"
             android:name=".EnterActivity"
             android:exported="true">
             <intent-filter>
@@ -32,6 +33,7 @@
             android:stateNotNeeded="true"
             tools:replace="android:screenOrientation" />
         <activity
+            android:screenOrientation="portrait"
             android:name=".MainActivity"
             android:exported="false" />
     </application>

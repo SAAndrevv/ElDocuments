@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-39:12
+ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-41:12
 MERGED from [androidx.databinding:databinding-adapters:7.0.4] C:\Users\SAAnd\.gradle\caches\transforms-3\26556797e76c19b5d0b296745c07407a\transformed\databinding-adapters-7.0.4\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.databinding:databinding-ktx:7.0.4] C:\Users\SAAnd\.gradle\caches\transforms-3\230516f33d90f4492f92f333c5105926\transformed\jetified-databinding-ktx-7.0.4\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.databinding:databinding-runtime:7.0.4] C:\Users\SAAnd\.gradle\caches\transforms-3\91c5d916f1830c52fc6fbf5cb99758d0\transformed\databinding-runtime-7.0.4\AndroidManifest.xml:17:1-22:12
@@ -72,22 +72,22 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\SAAnd\.gradle\caches\transforms-3\00d95b82264fcdf4723806819893098c\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SAAnd\.gradle\caches\transforms-3\504ebe514ca310cc6e6ca1119eead6c3\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\SAAnd\.gradle\caches\transforms-3\a332c206c2474c36512b7acf1d855fea\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-41:12
 	package
 		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:4:5-39
 		INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-39:12
+		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-41:12
 		INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-39:12
+		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:1-41:12
 		INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:2:11-69
@@ -106,7 +106,7 @@ MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\SAAnd\.gradl
 	android:name
 		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:8:22-62
 application
-ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:10:5-37:19
+ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:10:5-39:19
 MERGED from [ru.tinkoff.decoro:decoro:1.1.1] C:\Users\SAAnd\.gradle\caches\transforms-3\f596dcfeb20579ee97bef7374235879e\transformed\jetified-decoro-1.1.1\AndroidManifest.xml:12:5-20
 MERGED from [ru.tinkoff.decoro:decoro:1.1.1] C:\Users\SAAnd\.gradle\caches\transforms-3\f596dcfeb20579ee97bef7374235879e\transformed\jetified-decoro-1.1.1\AndroidManifest.xml:12:5-20
 MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\SAAnd\.gradle\caches\transforms-3\8426491776cfbc70b554974e3c143b40\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:46:5-54:19
@@ -148,46 +148,50 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\SAAnd\.gradle\cach
 	android:usesCleartextTraffic
 		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:19:9-44
 activity#com.saandrew.eldocuments.EnterActivity
-ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:20:9-28:20
+ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:screenOrientation
+		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:21:13-49
 	android:exported
-		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:22:13-36
+		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:23:13-36
 	android:name
-		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:21:13-42
+		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:22:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:23:13-27:29
+ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:26:17-77
+ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:26:27-74
+		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:27:27-74
 activity#com.journeyapps.barcodescanner.CaptureActivity
-ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:29:9-33:57
+ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:30:9-34:57
 MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\SAAnd\.gradle\caches\transforms-3\8426491776cfbc70b554974e3c143b40\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:47:9-53:63
 MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\SAAnd\.gradle\caches\transforms-3\8426491776cfbc70b554974e3c143b40\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:47:9-53:63
 	android:clearTaskOnLaunch
 		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\SAAnd\.gradle\caches\transforms-3\8426491776cfbc70b554974e3c143b40\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:49:13-45
 	android:screenOrientation
-		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:31:13-51
+		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:32:13-51
 		REJECTED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\SAAnd\.gradle\caches\transforms-3\8426491776cfbc70b554974e3c143b40\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:50:13-56
 	android:stateNotNeeded
-		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:32:13-42
+		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:33:13-42
 	android:windowSoftInputMode
 		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\SAAnd\.gradle\caches\transforms-3\8426491776cfbc70b554974e3c143b40\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:53:13-60
 	android:theme
 		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\SAAnd\.gradle\caches\transforms-3\8426491776cfbc70b554974e3c143b40\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:52:13-54
 	tools:replace
-		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:33:13-54
+		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:34:13-54
 	android:name
-		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:30:13-74
+		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:31:13-74
 activity#com.saandrew.eldocuments.MainActivity
-ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:34:9-36:40
+ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:35:9-38:40
+	android:screenOrientation
+		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:36:13-49
 	android:exported
-		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:36:13-37
+		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:38:13-37
 	android:name
-		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:35:13-41
+		ADDED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml:37:13-41
 uses-sdk
 INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\SAAnd\AndroidStudioProjects\ElDocuments\app\src\main\AndroidManifest.xml

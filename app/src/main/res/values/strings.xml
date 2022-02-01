@@ -18,7 +18,7 @@
 
     <string name="documents_group">Документы</string>
 
-    <string name="valid_until_driver_license">Действительный до: %1$s</string>
+    <string name="valid_until_driver_license">Действительны до: %1$s</string>
     <string name="date_of_issue_driver_license">Дата выдачи</string>
     <string name="serial_and_number_driver_license">Серия и номер</string>
     <string name="valid_until">Действительны до</string>

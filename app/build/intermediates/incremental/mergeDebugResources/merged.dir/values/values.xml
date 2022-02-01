@@ -1358,7 +1358,7 @@
     <string name="type_pass_item">Тип документа: %1$s</string>
     <string name="user_profile">Профиль</string>
     <string name="valid_until">Действительны до</string>
-    <string name="valid_until_driver_license">Действительный до: %1$s</string>
+    <string name="valid_until_driver_license">Действительны до: %1$s</string>
     <string name="valid_until_health_insurance">Дата завершения: %1$s</string>
     <string name="wrong_auth">Неверные логин или пароль</string>
     <string name="zxing_app_name">Barcode Scanner</string>
