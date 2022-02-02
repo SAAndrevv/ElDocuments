@@ -17,7 +17,7 @@ object Controller {
     }
 
     private var retrofit: Retrofit? = null
-    private const val baseUrl: String = "http://109.184.83.181:2525"
+    private const val baseUrl: String = "http://109.184.13.105:2525"
 
     private fun connect(): Retrofit {
         if (retrofit == null) {
